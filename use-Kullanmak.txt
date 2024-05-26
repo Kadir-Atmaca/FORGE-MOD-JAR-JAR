@@ -1,0 +1,22 @@
+Turkish :
+Eklemek istediğiniz modun adını 1.jar olarak adlandırın ve eklemek istediğiniz modları mods klasörüne koyun.
+Çıktı mod.jar'dır. Bu, mods klasöründeki modları tek bir mod haline getirir.
+
+Örnek:
+jei-1.20.1-forge-15.3.0.4.jar var,
+adını 1.jar koydum ve eklemek istediğim modları mods klasörüne koydum ve mod.
+jar oluştu. mod.jar'da Jade-1.20.1-forge-11.9.2.jar.
+volan-forge-1.20.1-0.6.10-7.jar tek bir dosya haline geldi
+
+
+
+English:
+Name the mod you want to add as 1.jar and put the mods you want to add to the mods folder.
+The output is mod.jar. This makes the mods in the mods folder into a single mod.
+
+Example: 
+There is jei-1.20.1-forge-15.3.0.4.jar, 
+I named it 1.jar and put the mods 
+I wanted to add into the mods folder and mod.jar was created. 
+Jade-1.20.1-forge-11.9.2.jar in mod.jar. 
+flywheel-forge-1.20.1-0.6.10-7.jar became a single file
