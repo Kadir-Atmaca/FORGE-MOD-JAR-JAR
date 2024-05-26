@@ -11,3 +11,4 @@ Evet saçma gelebilir ama canım sıkıldığında farklı projeler üretiyorum.
 1.jar dosyasını çıkarır ve META-INF içinde jarjar adlı bir klasör oluşturur ve mds'yi içine atar, ardından sıkıştırır ve mod.jar çıktısını verir 
 
 # Screenshot - Ekran Görüntüsü
+![g](https://github.com/Kadir-Atmaca/FORGE-MOD-JAR-JAR/assets/152689373/5cff03a2-2a47-4158-a9b0-625482d6e4a2)
