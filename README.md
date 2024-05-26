@@ -7,8 +7,7 @@ Extracts the 1.jar file and creates a folder called jarjar in META-INF and throw
 
 # Turkish
 Evet saçma gelebilir ama canım sıkıldığında farklı projeler üretiyorum. Bu proje Minecraft Forge modlarını birleştirmek için yapılmış bir program. 
-
-# Çalışma Mantığı
+#Çalışma Mantığı
 1.jar dosyasını çıkarır ve META-INF içinde jarjar adlı bir klasör oluşturur ve mds'yi içine atar, ardından sıkıştırır ve mod.jar çıktısını verir 
 
 # Screenshot - Ekran Görüntüsü
